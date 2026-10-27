@@ -2,6 +2,8 @@
 
 一个面向社交媒体封面的本地设计工作台。单文件、零依赖，所有编辑和导出都在浏览器本地完成。
 
+**在线体验：** https://be5tmate.github.io/be5tmate-cover-studio/
+
 ![BE5Tmate COVER STUDIO 界面预览](./preview.png)
 
 ## 功能
