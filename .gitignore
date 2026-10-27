@@ -1,0 +1,20 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local backups and logs
+*.bak
+*.log
+
+# WorkBuddy project metadata
+.workbuddy/
+
+# Dependencies
+node_modules/
